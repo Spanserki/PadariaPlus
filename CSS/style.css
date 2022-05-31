@@ -1,0 +1,73 @@
+body{
+    background-color: antiquewhite;
+}
+
+#logo{
+    text-align: center;    
+}
+
+#logo img{
+    width: 200px;
+}
+
+#logo a{
+    color: coral;
+}
+
+#logo ul li {
+    display: inline;
+    margin: 15px;
+}
+
+#produtos{
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    border-top: 1px solid coral;
+}
+
+#produtos h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+#produtos h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: chocolate;
+}
+
+#produtos img{
+    width: 700px;
+}
+
+#paes{
+    text-align: center;
+    background-color: darkorange;
+    width: 700px;
+    margin: auto;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+#paes img{
+    width: 400px;
+}
+
+#paes h3{
+    text-transform: uppercase;
+}
+
+#contato{
+    text-align: center;
+}
+
+#contato h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span{
+    font-weight: bold;
+}
